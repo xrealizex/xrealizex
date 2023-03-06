@@ -3,7 +3,7 @@
 
 - Twitter<br>
 [Please follow me !](https://twitter.com/hiro99000203)
-- Twitter<br>
+- Article<br>
 [Please take a look !](https://zenn.dev/hiro_xre)
 
 <p align="left"> 
