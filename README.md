@@ -2,7 +2,7 @@
 ### I’m learning Javascript mainly !
 
 - Twitter<br>
-[Please follow me !](https://twitter.com/hiro99000203)
+[Please follow me !](https://twitter.com/hiro_xre)
 - Article<br>
 [Please take a look !](https://zenn.dev/hiro_xre)
 
