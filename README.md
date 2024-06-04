@@ -1,7 +1,7 @@
 # Thank you for visiting my page🌱
 ### I’m learning Javascript mainly !
 
-- Twitter<br>
+- X<br>
 [Please follow me !](https://twitter.com/hiro_xre)
 - Article<br>
 [Please take a look !](https://zenn.dev/hiro_xre)
