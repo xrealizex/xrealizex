@@ -11,5 +11,4 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=xrealizex&count_private=true&show_icons=true&show_icons=true&theme=synthwave" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=xrealizex&theme=synthwave&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,rust,git,github,gitlab)](https://skillicons.dev)
