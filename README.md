@@ -1,10 +1,8 @@
 # Thank you for visiting my page🌱
-### I’m learning Javascript mainly !
+### I'm a frontend engineer who loves working with Vue.js and TypeScript !
 
-- X<br>
-[Please follow me !](https://twitter.com/hiro_xre)
-- Article<br>
-[Please take a look !](https://zenn.dev/hiro_xre)
+- X 👉 [Please follow me !](https://twitter.com/hiro_xre)
+- Article 👉 [Please take a look !](https://zenn.dev/hiro_xre)
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xrealizex&layout=compact&count_private=true&show_icons=true&theme=synthwave" />
